@@ -54,5 +54,3 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-## see this https://github.com/readthedocs/readthedocs.org/issues/2569
-master_doc = 'docs/index'
