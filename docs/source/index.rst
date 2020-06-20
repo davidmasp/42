@@ -13,9 +13,11 @@ Here is some text
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents
 
    license
    help
+   files
 
 
 
