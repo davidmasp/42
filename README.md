@@ -1,5 +1,7 @@
 # README
 
+![badge](https://readthedocs.org/projects/42/badge/?version=latest)
+
 Wil this be a forgotten repo in my github? Prolly yes, but I had to try
 anyway.
 
