@@ -1,1 +1,2 @@
 recommonmark
+sphinx>=2.2.0
