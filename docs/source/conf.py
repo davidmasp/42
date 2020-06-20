@@ -55,4 +55,4 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 ## see this https://github.com/readthedocs/readthedocs.org/issues/2569
-master_doc = 'index'
+master_doc = 'docs/index'
