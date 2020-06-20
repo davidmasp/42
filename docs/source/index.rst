@@ -11,16 +11,8 @@ simple header
 
 Here is some text
 
-
-
-   hello 
-   this 
-   is code!
-
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    license
    help
