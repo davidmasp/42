@@ -18,6 +18,7 @@ Here is some text
    license
    help
    files
+   terminal
 
 
 
