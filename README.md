@@ -11,6 +11,11 @@ This repo aims to establish a guide for my everyday life decisions,
 focused (but not exclusively) in code/computer issues. It aims to reduce
 [decision fatigue](https://en.wikipedia.org/wiki/Decision_fatigue).
 
+You could thing that this is some sort of public digital garden
+(aka personal wiki). I keep a more defined and updated second brain in
+[remNote](https://www.remnote.io/) an the idea is to publish the non-personal
+stuff here.
+
 ## Usage
 
 I am using sphinx and Read the Docs for this. If locally, you can
