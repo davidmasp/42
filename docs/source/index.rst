@@ -14,11 +14,16 @@ Here is some text
 .. toctree::
    :maxdepth: 2
    :caption: Contents
-
-   license
-   help
+   
+   about
    files
    terminal
+   referenceManager
+   install
+   install_R
+   install_VEP
+   install_htslib
+   license
 
 
 
