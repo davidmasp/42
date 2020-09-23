@@ -20,6 +20,25 @@ Window > Selection > Control use of mouse
 
 There, select `Compromise`.
 
+
+#### How to use `crtl+arrow` in putty
+
+In linux when you press control and arrow in the terminal it goes the full
+word instead of changing character by character.
+
+To enable this features in bash you can create a file named `~/.inputrc` 
+with the following components:
+
+```
+"\eOD": backward-word
+"\eOC": forward-word
+```
+
+Credit [here](https://superuser.com/a/103097/767632)
+
+I still didn't manage to make it work in the tmux server with PuTTy
+
+
 ### Git bash
 
 Open a git bash window and right-click the top of the window, there select
