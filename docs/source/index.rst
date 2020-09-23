@@ -20,9 +20,6 @@ Here is some text
    terminal
    referenceManager
    install
-   install_R
-   install_VEP
-   install_htslib
    license
 
 
